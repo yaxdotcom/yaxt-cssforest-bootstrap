@@ -17,3 +17,5 @@ files:
 - assets:
   - styles:
     - site.css
+  - scripts:
+    - navbar-bootstrap.js

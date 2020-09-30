@@ -1,6 +1,6 @@
 yax_version: 1.0.0
 template_id: yaxt-cssforest-bootstrap
-template_title: 'Bootstrap'
+template_title: 'CSS Forest: Bootstrap'
 category: cssforest
 description: 'Starter site using the popular Bootstrap CSS framework.'
 template_img: https://assets.yax.com/images/templates/yaxt-cssforest-bootstrap.png
@@ -12,10 +12,12 @@ files:
 - 3.html
 - 4.html
 - 5.html
+- 6.html
 - README.md
 - render.yaml
 - assets:
   - styles:
     - site.css
+- assets:
   - scripts:
     - navbar-bootstrap.js

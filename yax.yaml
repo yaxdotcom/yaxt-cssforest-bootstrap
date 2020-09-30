@@ -8,10 +8,10 @@ author: 'the Yax team'
 author_img: https://assets.yax.com/images/icons/yax.jpg
 files:
 - index.html
-- page1.html
-- page2.html
-- page3.html
-- page4.html
+- 2.html
+- 3.html
+- 4.html
+- 5.html
 - README.md
 - render.yaml
 - assets:

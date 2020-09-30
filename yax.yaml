@@ -12,12 +12,7 @@ files:
 - 3.html
 - 4.html
 - 5.html
-- 6.html
 - README.md
 - render.yaml
-- assets:
-  - styles:
-    - site.css
-- assets:
-  - scripts:
-    - navbar-bootstrap.js
+- assets/styles/site.css
+- assets/scripts/navbar-bootstrap.js
